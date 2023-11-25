@@ -1,5 +1,5 @@
 
-* asm | acc | neum | hw | tick| struct | stream| mem | prob5
+* asm | acc | neum | hw | instr | binary | trap | mem | pstr | prob5 | spi 
   
 
 ## asm编程设计
